@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhw2590582/tea-cll.git"
+    "url": "git+https://github.com/yifanyifan/tea-cll.git"
   },
   "keywords": [
     "scaffolding",
@@ -27,18 +27,18 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhw2590582/tea-cll/issues"
+    "url": "https://github.com/yifanyifan/tea-cll/issues"
   },
-  "homepage": "https://github.com/zhw2590582/tea-cll#readme",
+  "homepage": "https://github.com/yifanyifan/tea-cll#readme",
   "eslintConfig": {
-    "extends": "eslint-config-zhw2590582"
+    "extends": "eslint-config-yifanyifan"
   },
   "devDependencies": {
     "babel-jest": "^22.0.4",
     "babel-preset-env": "^1.6.1",
     "coveralls": "^3.0.0",
     "eslint": "^4.15.0",
-    "eslint-config-zhw2590582": "^1.1.1",
+    "eslint-config-yifanyifan": "^1.1.1",
     "execa": "^0.9.0",
     "jest": "^22.0.5"
   },

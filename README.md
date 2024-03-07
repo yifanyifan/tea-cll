@@ -1,4 +1,4 @@
-# tea-cll [![Build Status](https://www.travis-ci.org/zhw2590582/tea-cll.svg?branch=master)](https://www.travis-ci.org/zhw2590582/tea-cll) [![Coverage Status](https://coveralls.io/repos/github/zhw2590582/tea-cll/badge.svg?branch=master)](https://coveralls.io/github/zhw2590582/tea-cll?branch=master)
+# tea-cll [![Build Status](https://www.travis-ci.org/yifanyifan/tea-cll.svg?branch=master)](https://www.travis-ci.org/yifanyifan/tea-cll) [![Coverage Status](https://coveralls.io/repos/github/yifanyifan/tea-cll/badge.svg?branch=master)](https://coveralls.io/github/yifanyifan/tea-cll?branch=master)
 > 🍵 A simple scaffolding tool inspired by vue-cli
 
 For more information please read [vue-cli](https://github.com/vuejs/vue-cli)
