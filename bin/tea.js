@@ -49,6 +49,7 @@ const cli = meow(
 
 const templateUrl = cli.input[0];
 const projectName = cli.input[1];
+const projectName2 = cli.input[1];
 
 if (!templateUrl || !projectName) {
   cli.showHelp();
